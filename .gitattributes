@@ -1,3 +1,13 @@
+models/rf_tornado.pkl filter=lfs diff=lfs merge=lfs -text
+models/sgd_lightning.pkl filter=lfs diff=lfs merge=lfs -text
+models/sgd_tornado.pkl filter=lfs diff=lfs merge=lfs -text
+models/xgb_and_rf_tornado.pkl filter=lfs diff=lfs merge=lfs -text
+models/xgb_lightning.pkl filter=lfs diff=lfs merge=lfs -text
+models/xgb_rf_sgd_svc_tornado.pkl filter=lfs diff=lfs merge=lfs -text
+models/svc_tornado.pkl filter=lfs diff=lfs merge=lfs -text
+models/svd_tornado.pkl filter=lfs diff=lfs merge=lfs -text
+models/xgb_meso.pkl filter=lfs diff=lfs merge=lfs -text
+models/xgb_tornado.pkl filter=lfs diff=lfs merge=lfs -text
 *.pkl filter=lfs diff=lfs merge=lfs -text
 *.gz filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
