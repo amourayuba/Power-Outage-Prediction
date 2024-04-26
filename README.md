@@ -12,3 +12,4 @@ This project is structured as follows.
 - `power_data` contains the datasets for power outages.
 - `models` contains the saved, trained models.
 - `misc_old` contains miscellaneous/old files not used in the final version of our project (kept for posterity).
+_ 'figures' contains different figures, e.g, confusion matrix, roc curve, important features etc, which summarizes all the models for all three weather types.
