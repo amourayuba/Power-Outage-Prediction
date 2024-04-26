@@ -8,8 +8,11 @@ This project is structured as follows.
    - `codes/modeling` contains python notebooks for training models and evaluating their performance. For each weather type of interest, there is one notebook including brief, organized code illustrating how we train models for the given type of weather. Additionally, there are subdirectories for each weather type, containing the more detailed used during our experiments.
    - `codes/results` contains python notebooks describing the results of our trained models.
    - `codes/misc_old` contains miscellaneous/old code not used in the final version of our project (kept for posterity).
-- `merged` contains the merged datasets outputted by `merge.ipynb`
-- `power_data` contains the datasets for power outages.
-- `models` contains the saved, trained models.
-- `misc_old` contains miscellaneous/old files not used in the final version of our project (kept for posterity).
 - `figures` contains different figures, e.g, confusion matrix, roc curve, important features etc, which summarizes all the models for all three weather types.
+- `merged` contains the merged datasets outputted by `merge.ipynb`
+- `misc_old` contains miscellaneous/old files not used in the final version of our project (kept for posterity).
+- `models` contains the saved, trained models for all three weather types.
+- `power_data` contains the datasets for power outages.
+- `weather_data/cleaned/` contains the cleaned weather data for different weather types.
+
+
